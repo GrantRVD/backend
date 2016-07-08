@@ -129,6 +129,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00212f3f', e
 
 }
 
+#footer {
+    text-align: left;
+}
 
 /* CAROUSEL */
 .carousel {
